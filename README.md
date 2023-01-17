@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there 🍷
 
-<!--
-**Karlinhous/Karlinhous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const KARLINHOUS = {
+  code: [HTML, CSS, Lua, Javascript, Python, Csharp, Reactjs, Typescript],
+  techCommunities: {
+                        discord: "FreeCodeCamp",
+                        mentor:  "Gustavo Guanabara"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Lua",
+ funFact: "There are three ways to write error-free programs; only the fourth one works"
+}
+```
