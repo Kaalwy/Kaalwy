@@ -2,7 +2,7 @@
 
 ```js
 const KARLINHOUS = {
-  code: [HTML, CSS, Lua, Javascript, Python, Csharp, Reactjs, Typescript, mongodb, boostrap],
+  code: [HTML, CSS, Lua, Javascript, Python, Csharp, Reactjs, Typescript, Mongodb, Boostrap],
   techCommunities: {
                         discord: "FreeCodeCamp",
                         mentor:  "Dr Angela Yu"
