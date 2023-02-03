@@ -4,7 +4,7 @@
 const KARLINHOUS = {
   code: [HTML, CSS, Lua, Javascript, Python, Csharp, Reactjs, Typescript, Mongodb, Bootstrap],
   techCommunities: {
-                        discord: "FreeCodeCamp, He4rt Developers, Rocketseat, Game Jaaj,  Brackeys Community",
+                        discord: "FreeCodeCamp, He4rt Developers, Rocketseat, Game Jaaj,  Brackeys Community, GabiCode",
                         mentor:  "Dr Angela Yu"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Lua",
