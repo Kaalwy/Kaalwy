@@ -1,9 +1,9 @@
 # Hello there 👋
 ```js
 const KARLINHOUS = {
-  code: [Lua, Python, Typescript, C, C++],
+  code_languages: [Lua, Python, Typescript, C, C++],
   techCommunities: {
-                        discord: "FreeCodeCamp, He4rt Developers, Rocketseat, Game Jaaj,  Brackeys Community, GabiCode",
+                        discord: "He4rt Developers, Rocketseat, Game Jaaj",
                         mentor:  "Dr Angela Yu"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Fullstack",
