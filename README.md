@@ -1,7 +1,7 @@
 # Hello there 👋
 ```js
 const KARLINHOUS = {
-  code: [Lua, Python, Typescript, C/C++],
+  code: [Lua, Python, Typescript, C, C++],
   techCommunities: {
                         discord: "FreeCodeCamp, He4rt Developers, Rocketseat, Game Jaaj,  Brackeys Community, GabiCode",
                         mentor:  "Dr Angela Yu"
