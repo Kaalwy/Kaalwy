@@ -1,14 +1,19 @@
 # Hello there 👋
-```js
-const KARLINHOUS = {
-  code_languages: [Lua, Python, Typescript, C, C++],
-  techCommunities: {
-                        discord: "He4rt Developers, Rocketseat, Game Jaaj",
-                        mentor:  "Dr Angela Yu"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Fullstack",
- funFact: "There are three ways to write error-free programs; only the fourth one works"
-}
+```c
+#include <iostream>
+#include <vector>
+#include <string>
+#include <unordered_map>
+
+struct Karllos {
+    std::vector<std::string> codeLanguages = {"Lua", "Python", "Typescript", "C", "C++"};
+    std::unordered_map<std::string, std::string> techCommunities = {
+        {"discord", "He4rt Developers, Rocketseat, Game Jaaj"},
+        {"mentor", "Dr Angela Yu"}
+    };
+    std::string challenge = "I am doing the #100DaysOfCode challenge focused on Fullstack";
+    std::string funFact = "There are three ways to write error-free programs; only the fourth one works";
+};
 ```
 ## My stats
 ![Karlinhous's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karlinhous&show_icons=true&theme=react)
