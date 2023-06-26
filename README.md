@@ -1,31 +1,27 @@
 # Hello there 👋
-```c
-#include <iostream>
-#include <vector>
-#include <string>
-#include <unordered_map>
+```js
+class Karllos {
+    constructor() {
+        this.codeLanguages = ["Lua", "Python", "javascript", "C", "C++"];
+        this.techCommunities = {
+            discord: "He4rt Developers, Rocketseat, Game Jaaj",
+            mentor: "Dr Angela Yu"
+        };
+        this.challenge = "I am doing the #100DaysOfCode challenge focused on Fullstack";
+        this.funFact = "There are three ways to write error-free programs; only the fourth one works";
+    }
+}
 
-struct Karllos {
-    std::vector<std::string> codeLanguages = {"Lua", "Python", "Typescript", "C", "C++"};
-    std::unordered_map<std::string, std::string> techCommunities = {
-        {"discord", "He4rt Developers, Rocketseat, Game Jaaj"},
-        {"mentor", "Dr Angela Yu"}
-    };
-    std::string challenge = "I am doing the #100DaysOfCode challenge focused on Fullstack";
-    std::string funFact = "There are three ways to write error-free programs; only the fourth one works";
-};
+const karllos = new Karllos();
 ```
-## My stats
-![Karlinhous's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karlinhous&show_icons=true&theme=react)
 
 <hr size="3" noshade>
 
 ## technologies i use in my daily life
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
