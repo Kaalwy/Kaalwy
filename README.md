@@ -1,18 +1,17 @@
 # Hello there 👋
 ```js
-class Karllos {
+class Kaal {
     constructor() {
-        this.codeLanguages = ["Lua", "Python", "javascript", "C"];
+        this.codeLanguages = ["Lua", "Python", "javascript", "C"]
         this.techCommunities = {
             discord: "He4rt Developers, Rocketseat, Game Jaaj",
             mentor: "Dr Angela Yu"
-        };
-        this.challenge = "I am doing the #100DaysOfCode challenge focused on Fullstack";
-        this.funFact = "There are three ways to write error-free programs; only the fourth one works";
+        }
+        this.funFact = "There are three ways to write error-free programs; only the fourth one works"
     }
 }
 
-const karllos = new Karllos();
+const kaal = new Kaal()
 ```
 
 <hr size="3" noshade>
