@@ -2,7 +2,7 @@
 ```js
 class Kaal {
     constructor() {
-        this.codeLanguages = ["Lua", "Python", "javascript", "C"]
+        this.codeLanguages = ["Lua", "Python", "javascript", "C++"]
         this.techCommunities = {
             discord: "He4rt Developers, Rocketseat, Game Jaaj",
             mentor: "Dr Angela Yu"
