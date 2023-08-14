@@ -4,14 +4,11 @@ class Kaal {
     constructor() {
         this.codeLanguages = ["Lua", "Python", "javascript", "C++"]
         this.techCommunities = {
-            discord: "He4rt Developers, Rocketseat, Game Jaaj",
+            discord: "Free Code Camp", "codewars", "Game Jaaj",
             mentor: "Dr Angela Yu"
         }
-        this.funFact = "There are three ways to write error-free programs; only the fourth one works"
     }
 }
-
-const kaal = new Kaal()
 ```
 
 <hr size="3" noshade>
