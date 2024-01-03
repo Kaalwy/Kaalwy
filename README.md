@@ -1,5 +1,5 @@
 # 🍵 Welcome to Kaal's profile
-**`Welcome to my profile, the name's Karllos and i'm aspiring to be a (Developer/Designer/Musician)`**
+**`I call myself a Developer/Designer`**
 ```js
 class Kaal {
     constructor() {
