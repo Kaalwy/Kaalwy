@@ -1,9 +1,9 @@
-# 🎸 Kaal the GuitarDeveloper
+# 🍵 Welcome to Kaal's profile
 **`Welcome to my profile, the name's Karllos and i'm aspiring to be a (Developer/Designer/Musician)`**
 ```js
 class Kaal {
     constructor() {
-        this.codeLanguages = ["Lua", "Python", "javascript", "C++"]
+        this.codeLanguages = ["Lua", "Python", "javascript", "C++", "C", "C#", "Java"]
         this.techCommunities = {
             discord: "Free Code Camp", "codewars", "Game Jaaj",
         }
