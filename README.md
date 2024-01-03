@@ -5,7 +5,6 @@ class Kaal {
         this.codeLanguages = ["Lua", "Python", "javascript", "C++"]
         this.techCommunities = {
             discord: "Free Code Camp", "codewars", "Game Jaaj",
-            mentor: "Dr Angela Yu"
         }
     }
 }
