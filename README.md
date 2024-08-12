@@ -1,37 +1,49 @@
 # 🍵 Welcome to Kaal's profile
 **`I call myself a Developer/Designer`**
-```js
-class Kaal {
-    constructor() {
-        this.codeLanguages = ["Lua", "Python", "javascript", "C++", "C", "C#", "Java"]
-        this.techCommunities = {
-            discord: "Free Code Camp", "codewars", "Game Jaaj",
+```py
+class Kaal:
+    def __init__(self):
+        self.code_languages = ["Lua", "Python", "JavaScript", "C++", "C", "C#", "Java"]
+        self.tech_communities = {
+            "Discord": "Free Code Camp - Where learning never stops!",
+            "Codewars": "The dojo for code warriors seeking challenges!",
+            "Game Jaaj": "A vibrant realm where gamedev enthusiasts unite!"
         }
-    }
-}
+
+    def introduce(self):
+        intro = "🌟 Hello, world! I'm Kaal, your friendly neighborhood coder! 🌟\n"
+        intro += "🚀 In my coding journey, I've dived into the depths of various programming languages:\n"
+        intro += "    - " + ', '.join(self.code_languages) + "\n"
+        intro += "🤝 But my adventures don't stop there! I'm a proud member of some amazing tech communities:\n"
+        for platform, community in self.tech_communities.items():
+            intro += f"    - {platform}: {community}\n"
+        intro += "💡 Whether coding, collaborating, or creating, I'm always eager to learn and grow!\n"
+        intro += "Let's embark on this exciting journey together! 🌈"
+        return intro
 ```
 
 ## Languages and Tools
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />          
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> <br>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>     
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="TailWind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="ArchLinux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/> <br>
 
 #
 
 ### 📊 Stats
 
-![Kaalwy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaalwy&show_icons=true&theme=dracula)
-
-#
-
- <summary><h3>👨‍💻 Kaal's Coding Journey</h3></summary>
-<details>
-   I started my coding journey at my 16 years old as an entusiastic student. And all the while, teaching myself game development with a dream to build my own game, but i changed direction to a lot of areas such as web development, operational systems and etc. this year in 2024 i will try my best, studying hard enough i hope i can get a cool job.
-</details>
+<div align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kaalwy's Stats" width="800" height="500"/>
+    </a>
+    <br>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kaalwy&theme=tokyonight&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaalwy&theme=tokyonight&hide_border=true" alt="Kaalwy's Streak" width="800" height="600"/>
+    </a>
+    <br>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Kaalwy's Top Languages" width="500" height="500"/>
+    </a>
+</div>
