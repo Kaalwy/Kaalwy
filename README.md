@@ -11,14 +11,11 @@ class Kaal:
         }
 
     def introduce(self):
-        intro = "🌟 Hello, world! I'm Kaal, your friendly neighborhood coder! 🌟\n"
-        intro += "🚀 In my coding journey, I've dived into the depths of various programming languages:\n"
+        intro = "Hello, world! I'm Kaal, your friendly neighborhood coder!\n"
         intro += "    - " + ', '.join(self.code_languages) + "\n"
-        intro += "🤝 But my adventures don't stop there! I'm a proud member of some amazing tech communities:\n"
         for platform, community in self.tech_communities.items():
             intro += f"    - {platform}: {community}\n"
-        intro += "💡 Whether coding, collaborating, or creating, I'm always eager to learn and grow!\n"
-        intro += "Let's embark on this exciting journey together! 🌈"
+        intro += "When I'm coding, collaborating, or creating, I'm always up to learn and grow!\n"
         return intro
 ```
 
