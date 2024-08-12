@@ -1,5 +1,5 @@
 # 🍵 Welcome to Kaal's profile
-**`I call myself a Developer/Designer`**
+**`There you go some information of this astonishing developer!`**
 ```py
 class Kaal:
     def __init__(self):
